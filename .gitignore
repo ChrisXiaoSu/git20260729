@@ -1,0 +1,29 @@
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+## NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## Others
+*.vsidx
+*.dbmdl
+*.jfm
+*.pdb
+*.ilk
+*.log
+*.tmp
+*.temp
